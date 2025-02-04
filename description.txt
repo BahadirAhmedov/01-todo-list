@@ -1,0 +1,19 @@
+To Do list App
+
+1. add tasks to todo list: add
+2. Print all tasks to the console: list [--all or -a]
+3. Mark tasks as being done by using: complete [task id]
+4. Remove any task from the data store: delete [task id]
+
+Storing Data in CSV file
+- encoding/csv (package)
+Example in notion
+
+For printing out text in the tabular format 
+text/tabwriter
+
+timediff package used to print out human
+readable time differences
+
+Cobra CLI 
+for command line interfaces
